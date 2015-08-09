@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/connorsmallman/isomorphic-sprint-planner/issues"
   },
-  "homepage": "https://github.com/connorsmallman/isomorphic-sprint-planner#readme"
+  "homepage": "https://github.com/connorsmallman/isomorphic-sprint-planner#readme",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "http": "0.0.0",
+    "literalify": "^0.4.0",
+    "react": "^0.13.3"
+  }
 }
