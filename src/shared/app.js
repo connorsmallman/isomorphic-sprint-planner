@@ -1,5 +1,5 @@
-var React = require('react'),
-    router = require('./router');
+var React = require('react');
+var router = require('./router');
 
 module.exports = React.createClass({
   getInitialState: function() {
